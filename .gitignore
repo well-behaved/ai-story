@@ -1,0 +1,14 @@
+# 测试运行产物
+test-run/
+
+# 临时文件
+.story-state
+.story-deployed
+.story-snapshot.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Claude Code 本地配置
+.claude/settings.local.json
